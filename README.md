@@ -1,6 +1,6 @@
 # bayes-hier
 MATLAB code to run dimension robust MCMC for hierarchical Bayesian inversion, as outlined 
-in the paper `Hierarchical Bayesian Level Set Inversion' by Dunlop, Iglesias and Stuart. 
+in the paper _Hierarchical Bayesian Level Set Inversion_ by Dunlop, Iglesias and Stuart. 
 Three example forward models are provided: direct point observations, a groundwater flow 
 model and an electrical impedance tomography model.
 
